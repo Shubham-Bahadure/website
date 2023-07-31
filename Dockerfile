@@ -1,2 +1,2 @@
-FROM NGINX:latest
+FROM httpd:latest
 ADD . /var/www/html
