@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM NGINX:latest
 ADD . /var/www/html
